@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<jardesc>
+    <jar path="/Users/cngroup/Projects/Whisper/source/whisper-java/release/whispers.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/TweeFlow-V3/releasev3.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/TweeFlow-V3/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.activity"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.util.force"/>
+        <javaElement handleIdentifier="=TweeFlow-V3/src"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.util.graph"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.data.tree"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.data"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.util.geom"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.util"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.data.elem"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.data.graph"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.data.table"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.util.math"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.rendering"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.interaction"/>
+        <javaElement handleIdentifier="=DaVinci-V1/src&lt;davinci.util.graphics"/>
+    </selectedElements>
+</jardesc>
